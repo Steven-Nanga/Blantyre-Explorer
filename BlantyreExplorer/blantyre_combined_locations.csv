@@ -1,32 +1,361 @@
-Name,Latitude,Longitude,Type
-21 Grill on Hannover,-15.7865,35.0083,Restaurants
-Chez Maky,-15.7996,35.0142,Restaurants
-Casa Mia Restaurant,-15.7903,35.0112,Restaurants
-L'Hostaria,-15.79,35.018,Restaurants
-La Caverna & Cafe Mandala,-15.7836,35.0077,Restaurants
-The Blue Elephant,-15.7847,35.0143,Restaurants
-Hostellerie de France,-15.791,35.0153,Restaurants
-L'Armando's,-15.7855,35.0122,Restaurants
-Veg-Delight,-15.7883,35.0098,Restaurants
-KFC Blantyre,-15.7845,35.0165,Restaurants
-Debonairs Pizza,-15.7841,35.0129,Restaurants
-Africana Gardens,-15.7861,35.0194,Restaurants
-Blantyre Police Station,-15.7847,35.0132,Police Station
-Chileka Police Station,-15.6967,34.9737,Police Station
-Limbe Police Station,-15.8061,35.0425,Police Station
-Soche Police Post,-15.8084,35.0309,Police Post
-Ndirande Police Post,-15.7855,35.0247,Police Post
-Queen Elizabeth Central Hospital,-15.7861,35.0094,Hospital
-Blantyre Adventist Hospital,-15.7972,35.0162,Hospital
-Mwaiwathu Private Hospital,-15.7856,35.022,Hospital
-Beit Cure International Hospital,-15.7895,35.0343,Hospital
-Chitawira Private Hospital,-15.799,35.0174,Clinic
-Shifa Hospital,-15.7859,35.0261,Clinic
-Mlambe Mission Hospital,-15.7447,34.9752,Hospital
-Blantyre Market,-15.7868,35.0136,Market
-Limbe Market,-15.8041,35.0416,Market
-Chichiri Shopping Mall,-15.7993,35.0182,Shopping Mall
-Zingwangwa Market,-15.7852,35.0258,Market
-Mbayani Market,-15.7861,35.0194,Market
-Chilomoni Market,-15.7757,35.0098,Market
-Soche Market,-15.7932,35.0165,Market
+﻿Name,Latitude,Longitude,Type,Source
+access,-15.8080843,35.0585931,Bank,OpenStreetMap
+Ecobank,-15.8154633,35.0612741,Bank,OpenStreetMap
+FDH Bank,-15.8154288,35.0615256,Bank,OpenStreetMap
+FDH Bank Head offices,-15.7857159,35.0056175,Bank,OpenStreetMap
+FDH Bank: Umoyo Branch,-15.785734,35.0052598,Bank,OpenStreetMap
+FDH Chichiri Service Center,-15.802952,35.0348359,Bank,OpenStreetMap
+FDH Limbe Branch,-15.8095002,35.0599497,Bank,OpenStreetMap
+First Merchants Bank,-15.7854413,35.0069921,Bank,OpenStreetMap
+Indebank,-15.787339,35.0051996,Bank,OpenStreetMap
+My bucks banking Hall,-15.7875918,35.0049022,Bank,OpenStreetMap
+National Bank,-15.7884269,35.0051153,Bank,OpenStreetMap
+National Bank: Victoria Ave. Service Center,-15.7883522,35.0052669,Bank,OpenStreetMap
+NBM National Bank Malawi (Top Mandala House),-15.7925167,35.0093172,Bank,OpenStreetMap
+NBS Bank,-15.8004702,35.0224955,Bank,OpenStreetMap
+NBS Bank closed,-15.7873649,35.0100144,Bank,OpenStreetMap
+NED Bank,-15.7862633,35.0056045,Bank,OpenStreetMap
+Nedbank,-15.8156843,35.0609698,Bank,OpenStreetMap
+New Finance Bank Limbe,-15.8051389,35.0569593,Bank,OpenStreetMap
+Reserve Bank,-15.7865924,35.003688,Bank,OpenStreetMap
+Stanbic Bank,-15.7848781,35.0057252,Bank,OpenStreetMap
+Standard,-15.8131311,35.0607676,Bank,OpenStreetMap
+Standard Bank,-15.8005468,35.023616,Bank,OpenStreetMap
+Standard Bank ATM,-15.7854419,35.0055983,Bank,OpenStreetMap
+Standard Bank Ginnery Corner,-15.7990814,35.0248763,Bank,OpenStreetMap
+Western Union,-15.7860135,35.0054571,Bank,OpenStreetMap
+AXA buses,-15.8012354,35.0316725,Bus Station,OpenStreetMap
+Axa Coach House,-15.7866141,35.0090519,Bus Station,OpenStreetMap
+Lower Mibawa Minbus Station,-15.7894965,35.0078037,Bus Station,OpenStreetMap
+Sososo Depot,-15.7878234,35.0125776,Bus Station,OpenStreetMap
+Wenela Bus Stage,-15.7850676,35.0158599,Bus Station,OpenStreetMap
+CafÃ© Grazia,-15.7912242,35.0177942,Cafe,OpenStreetMap
+Chez Macky,-15.7959865,35.0017027,Cafe,OpenStreetMap
+Kwa Haraba,-15.7853792,35.008131,Cafe,OpenStreetMap
+La Caverna & Cafe Mandala,-15.7926416,35.0115596,Cafe,OpenStreetMap
+Mijn Kitchen,-15.8006158,35.0130089,Cafe,OpenStreetMap
+Shisha Cafe,-15.7863929,34.9964667,Cafe,OpenStreetMap
+The Cabin,-15.6815286,34.9708259,Cafe,OpenStreetMap
+The Dream,-15.7320178,35.062576,Cafe,OpenStreetMap
+Enegem filling station,-15.7779675,35.0379164,Fuel Station,OpenStreetMap
+energem,-15.8006626,35.0242956,Fuel Station,OpenStreetMap
+Kameza Filling Station,-15.7249784,35.0184207,Fuel Station,OpenStreetMap
+Kudya Filling Station,-15.8154103,35.0173318,Fuel Station,OpenStreetMap
+MERu,-15.7774336,35.023751,Fuel Station,OpenStreetMap
+Petroda,-15.8204062,35.0601822,Fuel Station,OpenStreetMap
+Petroda Fuelstation 02,-15.8045861,35.0628429,Fuel Station,OpenStreetMap
+Puma,-15.7861902,35.0158449,Fuel Station,OpenStreetMap
+Puma - Nyambadwe,-15.7788911,35.0237023,Fuel Station,OpenStreetMap
+Puma Chichiri,-15.8030658,35.0353727,Fuel Station,OpenStreetMap
+Puma Chitawira Filling Station,-15.8072286,35.0293297,Fuel Station,OpenStreetMap
+Puma FIlling Station,-15.7819249,34.9946623,Fuel Station,OpenStreetMap
+Simsooil Nyambadwe,-15.7796248,35.0243253,Fuel Station,OpenStreetMap
+Total,-15.8176633,34.9964986,Fuel Station,OpenStreetMap
+Total Filling Station,-15.729055,35.0691576,Fuel Station,OpenStreetMap
+Total Ndirande,-15.7739551,35.0308336,Fuel Station,OpenStreetMap
+Total Nyambadwe,-15.7803679,35.0243295,Fuel Station,OpenStreetMap
+Tsiranana Road Total Filling Station,-15.8045314,35.0663244,Fuel Station,OpenStreetMap
+Wenela Puma,-15.7861679,35.0158177,Fuel Station,OpenStreetMap
+Adult AETC department,-15.8021636,35.0206954,Hospital,OpenStreetMap
+"AMECA Clinic, Chilaweni",-15.7033439,35.0442599,Hospital,OpenStreetMap
+Chatinkha Nursery,-15.8016698,35.0226627,Hospital,OpenStreetMap
+CURE International Orthopedic Private Hospital,-15.8033178,35.017563,Hospital,OpenStreetMap
+ENT department,-15.8029752,35.0234242,Hospital,OpenStreetMap
+Family planning clinic,-15.8024824,35.0216207,Hospital,OpenStreetMap
+Gombwa,-15.8126326,35.0225281,Hospital,OpenStreetMap
+Hospital,-15.8130507,35.0221875,Hospital,OpenStreetMap
+Hospital Director's Office,-15.8018582,35.0200663,Hospital,OpenStreetMap
+John Hopkins Research Project,-15.8026603,35.02362,Hospital,OpenStreetMap
+Kanjedza MediClinic (MASM),-15.8126957,35.0550247,Hospital,OpenStreetMap
+Labour ward,-15.8021301,35.0224254,Hospital,OpenStreetMap
+Limbe Central Hospital,-15.8169345,35.0521836,Hospital,OpenStreetMap
+Madina Islamic private Hospital,-15.776204,35.0385392,Hospital,OpenStreetMap
+Malaria Alert Centre,-15.8047701,35.0229428,Hospital,OpenStreetMap
+MASM Medi Clinic,-15.8126464,35.0551524,Hospital,OpenStreetMap
+Medical doctors residence,-15.804463,35.0224841,Hospital,OpenStreetMap
+Mwaiwathu Private Hospital,-15.7851183,35.0171299,Hospital,OpenStreetMap
+Ndirande Community hall,-15.7786777,35.0392757,Hospital,OpenStreetMap
+Paediatric clinics,-15.8019533,35.0214987,Hospital,OpenStreetMap
+Paediatric outpatient department,-15.802134,35.021496,Hospital,OpenStreetMap
+Postnatal ward,-15.8020654,35.0229508,Hospital,OpenStreetMap
+QECH Eye department,-15.801583,35.023682,Hospital,OpenStreetMap
+QECH Gynaecology ward,-15.8019933,35.0221652,Hospital,OpenStreetMap
+QECH Main Laboratory,-15.8023349,35.0209243,Hospital,OpenStreetMap
+QECH Obstetric ward,-15.8017159,35.0221464,Hospital,OpenStreetMap
+QECH Paediatic Moyo ward,-15.8041899,35.0216048,Hospital,OpenStreetMap
+QECH Paediatric Medical Bay,-15.8040632,35.0216454,Hospital,OpenStreetMap
+Queen Elizabeth Central Hospital,-15.8030889,35.0217838,Hospital,OpenStreetMap
+Seventh Day Adventist Hospital,-15.7816769,35.0031357,Hospital,OpenStreetMap
+Shifa Hospital,-15.7872418,35.0104319,Hospital,OpenStreetMap
+Surgery Hospital,-15.7864414,35.0006832,Hospital,OpenStreetMap
+Amaryllis Hotel,-15.7846238,35.002516,Hotel,OpenStreetMap
+Anna's Lodge,-15.8296418,35.0500512,Hotel,OpenStreetMap
+Annieâs Flats,-15.8034886,35.0047633,Hotel,OpenStreetMap
+ANNIE'S LODGE,-15.778403,35.024239,Hotel,OpenStreetMap
+Baobab Lodge,-15.8003827,34.9975105,Hotel,OpenStreetMap
+Blantyre Lodge,-15.7869813,35.0153841,Hotel,OpenStreetMap
+Blue Lagoon,-15.8473602,35.0637787,Hotel,OpenStreetMap
+church guest,-15.806335,35.0406075,Hotel,OpenStreetMap
+Cozy10,-15.7792644,34.9974871,Hotel,OpenStreetMap
+Grace Bandawe,-15.782566,35.0241506,Hotel,OpenStreetMap
+Guest House,-15.7870945,35.0019109,Hotel,OpenStreetMap
+Herirage by Serendib,-15.8104415,35.0666403,Hotel,OpenStreetMap
+Homestyles,-15.8010147,35.0069011,Hotel,OpenStreetMap
+Hotel Victoria,-15.7927125,35.0044422,Hotel,OpenStreetMap
+Instahomes by Tru - Mt. Pleasant Apartments,-15.802828,35.0094779,Hotel,OpenStreetMap
+Kabula Lodge,-15.7793054,34.9976327,Hotel,OpenStreetMap
+Kanyemba resthouse,-15.692686,35.0257009,Hotel,OpenStreetMap
+Limbe Guest House,-15.8027893,35.0739448,Hotel,OpenStreetMap
+Malawi Sun Hotel,-15.782456,35.0042991,Hotel,OpenStreetMap
+Martha's Vineyard,-15.7983462,35.0030873,Hotel,OpenStreetMap
+Michiru Flats,-15.7829577,35.0021747,Hotel,OpenStreetMap
+Mile Stone Lodge,-15.6997026,35.0033589,Hotel,OpenStreetMap
+Mkango Lodge,-15.7236965,35.0185685,Hotel,OpenStreetMap
+molys lodge machinjiri,-15.7303227,35.0574913,Hotel,OpenStreetMap
+Morning Up Lodge,-15.853605,35.0633257,Hotel,OpenStreetMap
+Mount Pleasent Inn,-15.8044129,35.0091206,Hotel,OpenStreetMap
+Mount Soche Hotel,-15.7842824,35.0060862,Hotel,OpenStreetMap
+Octopus Villa,-15.8169364,34.9975088,Hotel,OpenStreetMap
+Protea Hotel,-15.7843064,35.0039195,Hotel,OpenStreetMap
+Residential house,-15.782147,35.0010554,Hotel,OpenStreetMap
+Serenity Essence of Luxury,-15.7984335,35.0155489,Hotel,OpenStreetMap
+Sunbird Hotel,-15.8040792,35.0692712,Hotel,OpenStreetMap
+The Leslie,-15.8033449,35.0106404,Hotel,OpenStreetMap
+National Library (Blantyre),-15.784758,35.0080503,Library,OpenStreetMap
+Saints Library,-15.7759492,35.0266879,Library,OpenStreetMap
+Blantyre flea Market,-15.7889817,35.0066865,Market,OpenStreetMap
+Blantyre Market,-15.7905989,35.0073179,Market,OpenStreetMap
+charcoal market,-15.8159721,35.0125102,Market,OpenStreetMap
+Chemusa,-15.7664113,34.9992871,Market,OpenStreetMap
+Limbe,-15.8157877,35.0573433,Market,OpenStreetMap
+Limbe Market,-15.8176311,35.0555806,Market,OpenStreetMap
+Manje,-15.8539138,35.0521843,Market,OpenStreetMap
+Mbayani Market,-15.7764252,35.0060892,Market,OpenStreetMap
+Safalao Market,-15.7739377,35.0454535,Market,OpenStreetMap
+Citipharm,-15.8129246,35.0613675,Pharmacy,OpenStreetMap
+Life Pharmacies,-15.7899457,35.0044239,Pharmacy,OpenStreetMap
+One Stop Pharmacy,-15.7859665,35.0056574,Pharmacy,OpenStreetMap
+Pharma Plus Pharmacy,-15.7847576,35.0054674,Pharmacy,OpenStreetMap
+Pharmacare Pharmacies,-15.7855031,35.0078027,Pharmacy,OpenStreetMap
+Pleasant Pharmacy,-15.8053917,35.0101443,Pharmacy,OpenStreetMap
+A Gap Of Salvation (AGOS),-15.8197537,35.0206156,Place of Worship,OpenStreetMap
+Al-Madina Masjid,-15.8087029,35.0690646,Place of Worship,OpenStreetMap
+Anglican Church,-15.7751734,34.9817518,Place of Worship,OpenStreetMap
+Beautiful Savior Lutherian Church,-15.7862928,35.0062112,Place of Worship,OpenStreetMap
+BethSaida Pool Church,-15.8210568,35.0311519,Place of Worship,OpenStreetMap
+Blantyre City Christian Centre,-15.7933356,35.006024,Place of Worship,OpenStreetMap
+Blantyre Community Church,-15.7871199,35.0078611,Place of Worship,OpenStreetMap
+C.C.A.P,-15.7781118,34.9790267,Place of Worship,OpenStreetMap
+CAP Church,-15.7786631,35.0271403,Place of Worship,OpenStreetMap
+Catholic,-15.8183518,35.0414131,Place of Worship,OpenStreetMap
+CFC Church,-15.8197819,35.0243753,Place of Worship,OpenStreetMap
+Chileka East Kingdom Hall,-15.712767,35.009754,Place of Worship,OpenStreetMap
+Chitsime CCAP Church,-15.7827776,35.068055,Place of Worship,OpenStreetMap
+Chiwembe SDA Church,-15.8374784,35.05357,Place of Worship,OpenStreetMap
+Church (under constr),-15.7923086,35.006112,Place of Worship,OpenStreetMap
+Church of Christ,-15.8181567,35.0174243,Place of Worship,OpenStreetMap
+Church of Christ at Red Cross,-15.8011834,35.0186829,Place of Worship,OpenStreetMap
+CI St. Montfort,-15.8053007,35.0020957,Place of Worship,OpenStreetMap
+CI St. Montfort New Church,-15.8043363,35.0031998,Place of Worship,OpenStreetMap
+City Pentecostal Church,-15.7862848,35.0054292,Place of Worship,OpenStreetMap
+Flood Church,-15.7990507,35.023218,Place of Worship,OpenStreetMap
+Jehovah Witness,-15.8385407,35.0351685,Place of Worship,OpenStreetMap
+Kabula SDA Church,-15.7832806,35.0035002,Place of Worship,OpenStreetMap
+Kanjedza Masjid,-15.8101929,35.0555508,Place of Worship,OpenStreetMap
+Limbe Cathedral,-15.8025532,35.0721664,Place of Worship,OpenStreetMap
+Limbe/Katimba CCAP,-15.8135854,35.0536223,Place of Worship,OpenStreetMap
+Living Waters Church,-15.8254222,35.0214513,Place of Worship,OpenStreetMap
+Madrasah Raonaqul Islam,-15.7923741,35.005128,Place of Worship,OpenStreetMap
+Mdala Parish,-15.7181439,35.0114399,Place of Worship,OpenStreetMap
+Mt. Pleasant CCAP church,-15.7955528,35.0051745,Place of Worship,OpenStreetMap
+Naotcha CCAP church,-15.8384793,35.0061485,Place of Worship,OpenStreetMap
+Ndirande Anglican Church,-15.7725235,35.0382927,Place of Worship,OpenStreetMap
+Ndirande apostolic faith,-15.777537,35.0389196,Place of Worship,OpenStreetMap
+Ndirande C.C.A.P church,-15.7690105,35.0397441,Place of Worship,OpenStreetMap
+Ndirande Church of christ,-15.7765471,35.0394638,Place of Worship,OpenStreetMap
+Ndirande Holy Ghost Catholic Parish,-15.7705572,35.0359156,Place of Worship,OpenStreetMap
+Ndirande Kachere Church,-15.7816618,35.039084,Place of Worship,OpenStreetMap
+Ndirande Main Masjid,-15.7764007,35.0391713,Place of Worship,OpenStreetMap
+Ndirande Orthodox Church,-15.7700087,35.0357194,Place of Worship,OpenStreetMap
+Ndirande SDA church,-15.7767841,35.029074,Place of Worship,OpenStreetMap
+Ngumbe assemblies of God Church,-15.6999299,35.0038895,Place of Worship,OpenStreetMap
+Orthodox Christian Missionary Centre,-15.8067673,35.0017751,Place of Worship,OpenStreetMap
+Paison Masjid,-15.7730988,35.0453873,Place of Worship,OpenStreetMap
+Pentecostal church,-15.7795745,35.0265587,Place of Worship,OpenStreetMap
+Salvation Army Training College,-15.7758106,35.0299048,Place of Worship,OpenStreetMap
+SDA,-15.7977683,35.0025879,Place of Worship,OpenStreetMap
+SDA Church,-15.8194516,35.0305014,Place of Worship,OpenStreetMap
+Snyy Side SDA,-15.7976785,35.0013799,Place of Worship,OpenStreetMap
+Soche SDA Church,-15.8092698,35.0211136,Place of Worship,OpenStreetMap
+St James CCAP Church,-15.8252412,35.0005826,Place of Worship,OpenStreetMap
+St Michaels CCAP Church,-15.7831076,35.0207419,Place of Worship,OpenStreetMap
+St Paul's Cathedral,-15.7835277,35.003068,Place of Worship,OpenStreetMap
+St Pauls CCAP Church,-15.8397182,35.0541869,Place of Worship,OpenStreetMap
+St Pius Cathedral,-15.8164425,35.0202446,Place of Worship,OpenStreetMap
+St. Columba CCAP Church,-15.8175927,35.0273469,Place of Worship,OpenStreetMap
+St. James,-15.7703926,34.9801968,Place of Worship,OpenStreetMap
+Victory Land,-15.8201448,35.0329232,Place of Worship,OpenStreetMap
+Winners Chapel,-15.8073731,35.0220212,Place of Worship,OpenStreetMap
+Worldwide Church of God,-15.8062243,35.0401052,Place of Worship,OpenStreetMap
+AREA 5 POLICE STATION MACHINJIRI,-15.7288476,35.0699928,Police,OpenStreetMap
+Blantyre Police HQ,-15.7859079,35.0145516,Police,OpenStreetMap
+Blantyre Police Staff Lines,-15.7955486,35.0072249,Police,OpenStreetMap
+Chichiri Police,-15.802544,35.0288305,Police,OpenStreetMap
+Chilobwe Police Station,-15.8323626,35.006226,Police,OpenStreetMap
+Immigration Staff Lines,-15.7963482,35.0061927,Police,OpenStreetMap
+Limbe Police,-15.8195039,35.059697,Police,OpenStreetMap
+Manase Police Post,-15.8171971,34.9965768,Police,OpenStreetMap
+New Blantyre Police Construction site,-15.7895914,35.0055505,Police,OpenStreetMap
+Police Training School,-15.8180444,35.0480634,Police,OpenStreetMap
+Save the Children,-15.8198971,35.0596451,Police,OpenStreetMap
+21 Grill,-15.7841566,35.0043468,Restaurant,OpenStreetMap
+African Heritage,-15.7857123,35.0028636,Restaurant,OpenStreetMap
+Alibaba restaurant,-15.787672,35.0103872,Restaurant,OpenStreetMap
+Ali's Pakistani,-15.8165175,35.0597083,Restaurant,OpenStreetMap
+Aunt Effie's,-15.8165294,35.0613267,Restaurant,OpenStreetMap
+Big Bullets Sport Bar,-15.8005266,35.0171904,Restaurant,OpenStreetMap
+Bombay Palace,-15.7846717,35.0046342,Restaurant,OpenStreetMap
+Chez Macky,-15.7776376,35.0039291,Restaurant,OpenStreetMap
+crazy foods,-15.7862352,35.0068257,Restaurant,OpenStreetMap
+Debonairs,-15.7853031,35.0039688,Restaurant,OpenStreetMap
+Debonairs Pizza,-15.8115174,35.0639352,Restaurant,OpenStreetMap
+Debonnairs,-15.7853955,35.0038668,Restaurant,OpenStreetMap
+Fusion Cuisine,-15.8029658,35.0348629,Restaurant,OpenStreetMap
+Gelato Carnival,-15.7968154,35.0042184,Restaurant,OpenStreetMap
+Hong Kong Restaurant,-15.7835491,35.0044093,Restaurant,OpenStreetMap
+Jungle Pepper Pizza,-15.790416,35.0155214,Restaurant,OpenStreetMap
+KFC,-15.7873655,35.0103781,Restaurant,OpenStreetMap
+Kipâs,-15.8113304,35.0611645,Restaurant,OpenStreetMap
+KIPS,-15.7876049,35.0062942,Restaurant,OpenStreetMap
+Kips',-15.8026791,35.034817,Restaurant,OpenStreetMap
+Kips Express,-15.788288,35.0040515,Restaurant,OpenStreetMap
+L'Hostaria,-15.7857323,35.0012732,Restaurant,OpenStreetMap
+Malawi Cuisine,-15.8012344,35.0320452,Restaurant,OpenStreetMap
+Malawi Sun Food Court,-15.782894,35.0045049,Restaurant,OpenStreetMap
+Malawian restaurant,-15.802053,35.0086938,Restaurant,OpenStreetMap
+Martin's Tasty Foods,-15.7866022,35.0067683,Restaurant,OpenStreetMap
+Mugg & Bean,-15.7913884,35.0142529,Restaurant,OpenStreetMap
+Njamba,-15.8083158,35.0327604,Restaurant,OpenStreetMap
+Oriental Lodge & restaurant,-15.7871868,35.011613,Restaurant,OpenStreetMap
+Pizza,-15.8029073,35.0349171,Restaurant,OpenStreetMap
+Sigala,-15.7766072,35.0223368,Restaurant,OpenStreetMap
+Steers,-15.78539,35.004099,Restaurant,OpenStreetMap
+Steers Gardens,-15.7849838,35.0038899,Restaurant,OpenStreetMap
+TJ's Bar,-15.8026169,35.0111178,Restaurant,OpenStreetMap
+Veggie Delight,-15.7851442,35.0070791,Restaurant,OpenStreetMap
+Victoria's Gardens,-15.8019457,35.0035461,Restaurant,OpenStreetMap
+Wendy's Kitchen,-15.7866015,35.0085831,Restaurant,OpenStreetMap
+WIMPY,-15.7835113,35.0049572,Restaurant,OpenStreetMap
+YB's,-15.785411,35.0076647,Restaurant,OpenStreetMap
+Army Secondary School,-15.7016373,35.0141147,School,OpenStreetMap
+Bedir Pvt School,-15.8149149,35.0449103,School,OpenStreetMap
+Blantyre Girls,-15.781482,35.0245161,School,OpenStreetMap
+BLANTYRE GIRLS PRIMARY SCHOOL,-15.7808911,35.0244285,School,OpenStreetMap
+Blantyre Sec Sch,-15.7839125,35.0284942,School,OpenStreetMap
+Central High School,-15.7964733,35.0709597,School,OpenStreetMap
+Chichiri Primary School,-15.8021714,35.0446625,School,OpenStreetMap
+Chichiri Sec. School,-15.800912,35.0432373,School,OpenStreetMap
+Chigwaja,-15.7738553,34.9611607,School,OpenStreetMap
+Chilaweni CDSS,-15.7034742,35.0450602,School,OpenStreetMap
+Chilaweni School,-15.7047037,35.0435097,School,OpenStreetMap
+Chimwankhunda CDSS,-15.8278777,35.0134989,School,OpenStreetMap
+Chirimba CDSS,-15.7441737,35.0191537,School,OpenStreetMap
+Chirimba School,-15.7429172,35.0171722,School,OpenStreetMap
+Chitsime Primary School,-15.7680758,35.0368946,School,OpenStreetMap
+Early Child Development Center,-15.7802525,35.0258359,School,OpenStreetMap
+Emmanuel International Bible College,-15.7775367,35.0282046,School,OpenStreetMap
+Extending Hope International School,-15.7456662,35.0780269,School,OpenStreetMap
+God's grace Acadamy,-15.8109996,35.0080725,School,OpenStreetMap
+Growing stars Montessori Nursery School,-15.784512,34.997487,School,OpenStreetMap
+HHI Primary School,-15.7837399,35.0220927,School,OpenStreetMap
+HHI Secondary School,-15.784313,35.021845,School,OpenStreetMap
+Hillview Internatinal Primary School,-15.8387419,35.0637857,School,OpenStreetMap
+Hillview International Primary School,-15.8378236,35.0642003,School,OpenStreetMap
+Hillview international Sschool,-15.838042,35.0639882,School,OpenStreetMap
+James Chiona High School,-15.8030748,35.0724235,School,OpenStreetMap
+Joshua Pvt Sec School,-15.8083664,34.967129,School,OpenStreetMap
+Joyce Banda Foundation,-15.8244838,35.0187426,School,OpenStreetMap
+Kanjedza Primary School,-15.8127065,35.0512721,School,OpenStreetMap
+Kapeni Demonstration School,-15.8320745,35.0401284,School,OpenStreetMap
+Karibu Acadamy,-15.7069876,34.9955109,School,OpenStreetMap
+Limbe primary school,-15.8094004,35.0552764,School,OpenStreetMap
+Lumbira CDSS,-15.7798698,34.9757916,School,OpenStreetMap
+Madrasah Raonaqul Islam,-15.7925399,35.0052997,School,OpenStreetMap
+Makhetha,-15.7890796,35.0651429,School,OpenStreetMap
+MALAWI UNIVERSITY OF BUSINESS AND APPLIED SCIENCES,-15.8017517,35.0268691,School,OpenStreetMap
+Manja FP School,-15.8200194,35.0266712,School,OpenStreetMap
+Mbayani School,-15.7713884,35.0083297,School,OpenStreetMap
+Michiru Private Primary School,-15.7852821,34.979373,School,OpenStreetMap
+Michiru School,-15.6970045,34.949292,School,OpenStreetMap
+MISESA PRIMARY SCHOOL,-15.8390675,35.0602054,School,OpenStreetMap
+Mitsidi CDSS,-15.8091575,34.9480173,School,OpenStreetMap
+Mulunguzi CDSS,-15.762706,34.9893771,School,OpenStreetMap
+Namalimwe CDSS,-15.7815655,35.0360351,School,OpenStreetMap
+Namame CDSS,-15.8545858,35.0423567,School,OpenStreetMap
+Namame School,-15.853503,35.0408011,School,OpenStreetMap
+Namatapa sch ground,-15.8215457,35.0750677,School,OpenStreetMap
+Namatete School,-15.743392,35.0058003,School,OpenStreetMap
+Namiwawa CDSS,-15.7883347,34.9978433,School,OpenStreetMap
+Naotcha Primary School,-15.8388336,35.0051305,School,OpenStreetMap
+Nchokera CDSS,-15.8360811,34.9735453,School,OpenStreetMap
+Ndirande Hill Secondary School,-15.7643751,35.0438164,School,OpenStreetMap
+Ndirande Kachere LEA Primary School,-15.7806544,35.0423677,School,OpenStreetMap
+Ngumbe primary school,-15.6959442,35.0043105,School,OpenStreetMap
+Njamba,-15.8095236,35.0308668,School,OpenStreetMap
+Ntonya Pvt School,-15.8124261,35.026404,School,OpenStreetMap
+Nyambadwe CDSS,-15.773034,35.0286298,School,OpenStreetMap
+Nyambadwe Pvt Sec School,-15.7648649,35.0268956,School,OpenStreetMap
+Nyambadwe School,-15.7707203,35.0264853,School,OpenStreetMap
+Our Lady of Wisdom School,-15.8037347,35.0686537,School,OpenStreetMap
+PACT,-15.8177954,35.050043,School,OpenStreetMap
+Phoenix International Primary School,-15.7815003,35.0229864,School,OpenStreetMap
+Primary School,-15.8059949,35.0011545,School,OpenStreetMap
+Private School,-15.7798993,35.0267106,School,OpenStreetMap
+PSI Malawi,-15.78447,34.9978353,School,OpenStreetMap
+Railways Pvt,-15.81187,35.0655622,School,OpenStreetMap
+School hall,-15.7749483,35.0270145,School,OpenStreetMap
+Sigerege School,-15.7818489,34.9660304,School,OpenStreetMap
+Soche Hill Secondary School,-15.8317313,35.0353153,School,OpenStreetMap
+Soche Pvt,-15.808924,35.0207529,School,OpenStreetMap
+South Lunzu CDSS,-15.7203297,35.0782907,School,OpenStreetMap
+Southend School,-15.8130095,34.999763,School,OpenStreetMap
+"St Patricks, Jack And Jill Nursery School",-15.7842773,34.9969667,School,OpenStreetMap
+St Pius School,-15.8159264,35.0207433,School,OpenStreetMap
+St Theresa Pvt School,-15.8365082,35.0533232,School,OpenStreetMap
+St. Andrew's Primary,-15.8016552,35.0012751,School,OpenStreetMap
+St. Kizito CDSS,-15.8014094,35.0764469,School,OpenStreetMap
+Stella Maris Catholic Girls Secondary School,-15.8290176,34.9991006,School,OpenStreetMap
+Target Secondary School,-15.7751226,34.9746202,School,OpenStreetMap
+Thanthwe School,-15.6976707,35.0677018,School,OpenStreetMap
+Trinity Anglican Pvt Sec School,-15.7008945,35.0329266,School,OpenStreetMap
+Zingwangwa,-15.8262941,35.0003009,School,OpenStreetMap
+Chichiri Mall,-15.8024348,35.0340355,Shopping Mall,OpenStreetMap
+Pagat Mall,-15.7850763,35.0052038,Shopping Mall,OpenStreetMap
+Rosewood Mall,-15.8054523,35.0102627,Shopping Mall,OpenStreetMap
+Uta Waleza Shopping Complex,-15.7908907,35.0178467,Shopping Mall,OpenStreetMap
+Archade,-15.7999822,35.0234492,Supermarket,OpenStreetMap
+BMK Spice Shop,-15.7869229,35.0080604,Supermarket,OpenStreetMap
+Chipiku,-15.8003003,35.0259012,Supermarket,OpenStreetMap
+Chipiku Plus,-15.8004127,35.0246117,Supermarket,OpenStreetMap
+Foodlovers Market,-15.7847416,35.0026979,Supermarket,OpenStreetMap
+Foodmall and Shopping center,-15.7831518,35.0012657,Supermarket,OpenStreetMap
+Game Store,-15.8020758,35.0332851,Supermarket,OpenStreetMap
+Manyowe,-15.806875,34.9825129,Supermarket,OpenStreetMap
+Metro Peoples,-15.7865789,35.0115364,Supermarket,OpenStreetMap
+Msika wanjala Marketplace,-15.7714961,35.0383778,Supermarket,OpenStreetMap
+New Ndirande Main Market,-15.7763647,35.037926,Supermarket,OpenStreetMap
+Peoples,-15.8151988,35.061288,Supermarket,OpenStreetMap
+SANA,-15.7876823,35.0101861,Supermarket,OpenStreetMap
+sana cash and carry,-15.8276522,35.0621956,Supermarket,OpenStreetMap
+Sana Food Market,-15.8003575,35.0256246,Supermarket,OpenStreetMap
+SHOPPERS,-15.7739177,34.9802444,Supermarket,OpenStreetMap
+Shoprite,-15.80269,35.034291,Supermarket,OpenStreetMap
+Shoprite U-Save,-15.81493,35.0612936,Supermarket,OpenStreetMap
+Spar,-15.7879921,35.0048821,Supermarket,OpenStreetMap
+Spendrite,-15.8105422,35.0083361,Supermarket,OpenStreetMap
+Vegetable market,-15.78915,35.0069358,Supermarket,OpenStreetMap
+Victoria Superette,-15.788562,35.0048081,Supermarket,OpenStreetMap
+Zingwangwa Market,-15.8187249,35.0118416,Supermarket,OpenStreetMap
+MALAWI UNIVERSITY OF BUSINESS AND APPLIED SCIENCES,-15.8030604,35.0275006,University,OpenStreetMap
+University of Malawi - The Polytechnic Chichiri Campus,-15.8052773,35.0383546,University,OpenStreetMap
+University of Malawi Medical College,-15.8016626,35.0162746,University,OpenStreetMap
